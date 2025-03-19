@@ -1,0 +1,22 @@
+{
+  "welcome": "Welcome",
+  "username": "Username",
+  "password": "Password",
+  "login": "Login",
+  "documentName": "Document Name",
+  "documentType": "Document Type",
+  "documentStatus": "Document Status",
+  "companySignatureName": "Company Signature Name",
+  "employeeSignatureName": "Employee Signature Name",
+  "employeeNumber": "Employee Number",
+  "employeeSigDate": "Employee Signature Date",
+  "companySigDate": "Company Signature Date",
+  "addDocument": "Add Document",
+  "editDocument": "Edit Document",
+  "documents": "Documents",
+  "actions": "Actions",
+  "addNewDocument": "Add New Document",
+  "cancel": "Cancel",
+  "save": "Save",
+  "deleteDocumentQuestion": "Are you sure you want to delete this document?"
+}

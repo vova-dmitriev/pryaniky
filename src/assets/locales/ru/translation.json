@@ -1,0 +1,22 @@
+{
+  "welcome": "Добро пожаловать",
+  "username": "Имя пользователя",
+  "password": "Пароль",
+  "login": "Войти",
+  "documentName": "Название документа",
+  "documentType": "Тип документа",
+  "documentStatus": "Статус документа",
+  "companySignatureName": "Имя подписи компании",
+  "employeeSignatureName": "Имя подписи сотрудника",
+  "employeeNumber": "Номер сотрудника",
+  "employeeSigDate": "Дата подписи сотрудника",
+  "companySigDate": "Дата подписи компании",
+  "addDocument": "Добавить документ",
+  "editDocument": "Редактировать документ",
+  "documents": "Документы",
+  "actions": "Действия",
+  "addNewDocument": "Добавить новый документ",
+  "cancel": "Отменить",
+  "save": "Сохранить",
+  "deleteDocumentQuestion": "Вы уверены, что хотите удалить документ?"
+}
