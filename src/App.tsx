@@ -28,7 +28,7 @@ function App() {
   return (
     <Provider store={store}>
       <ThemeProvider theme={theme}>
-        <Router>
+        <Router basename="/pryaniky">
           <MainLayout>
             <Routes>
               <Route path="/" element={<Navigate to="/login" replace />} />
